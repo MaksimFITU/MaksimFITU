@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Блоги | "Мел". Полезное, понятное и удобное онлайн-медиа про образование и детей</title>
+<style>
+a{ 
+	font-size:17px; 
+	text-decoration: none;
+	}
+	a.link1 { font-size: 60px; }
+	a.link2 { font-size: 15px;
+    border:3px #0FFFFF  solid; width:175px;
+    padding: 12px 12px 12px 12px;
+	  }
+	  a.link3 { font-size: 13px;}
+.block1 {
+width: 105%; height: 80px;
+position: relative;
+margin-top: -20px;
+margin-left: -5%;
+background: #000000;
+
+}
+.block2 {
+width: 104%; height: 1300px;
+position: absolute;
+background: white;
+margin-left: -5%;
+}
+
+.block3 {
+width: 30%; height: 40px;
+position: absolute;
+margin-top: -45px;
+margin-left: 10%;
+text-align: center;
+}
+.block4 {
+width: 15%; height: 40px;
+position: absolute;
+margin-top: -75px;
+margin-left: 540px ;
+text-align: center;
+}
+.block5 {
+width: 20%; height: 40px;
+position: absolute;
+margin-top: -45px;
+margin-left: 800px;
+text-align: center;
+}
+.block6 {
+width: 10%; height: 40px;
+position: absolute;
+margin-top: -45px;
+margin-left: 1060px;
+text-align: center;
+}
+.block7 {
+width: 80%; height: 70px;
+position: relative;
+margin-top: 18px;
+margin-left: 10%;
+background: white;
+text-align: left;
+</style>
+</head>
+<body>
+<div class="block1">
+</div>
+
+<div class="block2">
+
+
+</div>
+
+<div class="block3">
+
+<a href="#" style="color:#ffffff"  >Подписки &nbsp &nbsp </a>
+<a href="#" style="color:#ffffff" >Школы "Мела" &nbsp &nbsp </a>
+<a href="#" style="color:#ffffff" >Афиша </a>
+
+</div>
+<div class="block4">
+<a href="#" style="color:#ffffff" class="link1">  <strong> мел </strong> </a> 
+
+</div>
+<div class="block5">
+<a href="#" style="color:#ffffff"  >Поиск &nbsp &nbsp </a>
+<a href="#" style="color:#ffffff" >Написать в блог &nbsp &nbsp </a>
+
+</div>
+<div class="block6">
+	<a href="#" style="color:#ffffff" class="link2" >ВХОД </a>
+	</div>
+
+<div class="block7">
+	<a href="#" style="color:#000000" class="link3"> <strong>ДО ШКОЛЫ &nbsp &nbsp</strong> </a>
+    <a href="#" style="color:#000000" class="link3"><strong>ШКОЛА &nbsp &nbsp</strong> </a>
+    <a href="#" style="color:#000000" class="link3"><strong>ВУЗ &nbsp &nbsp</strong> </a>
+    <a href="#" style="color:#000000" class="link3"><strong>ПЕРЕМЕНА &nbsp &nbsp </strong></a>
+    <a href="#" style="color:#000000" class="link3"><strong>СЕМЬЯ &nbsp &nbsp </strong></a>
+    <a href="#" style="color:#000000" class="link3"><strong>ПРОФЕССИИ БУДУЩЕГО &nbsp &nbsp </strong></a>
+	<a href="#" style="color:#000000" class="link3"><strong>ПОДРОСТКИ &nbsp &nbsp </strong></a>
+	<a href="#" style="color:#0fffff" class="link3"><strong>БЛОГИ &nbsp &nbsp </strong></a>
+	</div>
+</body>
+</html>
